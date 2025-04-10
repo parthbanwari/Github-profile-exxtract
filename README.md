@@ -14,6 +14,11 @@ _(Replace this with your actual deployed link)_
 
 ---
 
+## App Preview
+
+![App Demo](./public/preview.gif)
+
+
 ## 🛠️ Features
 
 - 🔎 Search GitHub users
