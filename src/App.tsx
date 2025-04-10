@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { GithubIcon, SearchIcon, UserIcon, MapPinIcon, LinkIcon, CalendarIcon, UsersIcon, BuildingIcon } from 'lucide-react';
+import { GithubIcon, SearchIcon, MapPinIcon, LinkIcon, CalendarIcon, UsersIcon, BuildingIcon } from 'lucide-react';
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
