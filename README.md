@@ -7,6 +7,13 @@ A sleek web application built with **ReactJS**, **TypeScript**, and **ShadCN UI*
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Click here to try the app](https://github-profile-exxtract.onrender.com/)  
+_(Replace this with your actual deployed link)_
+
+---
+
 ## 🛠️ Features
 
 - 🔎 Search GitHub users
